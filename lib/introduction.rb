@@ -1,3 +1,3 @@
-def introductione(Tom)
+def introductione(jim)
   puts "Hi, my name is #{jim} and i am learning to program in #{[english]}."
 end
