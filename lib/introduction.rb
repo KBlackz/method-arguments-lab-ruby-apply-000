@@ -1,3 +1,3 @@
 def introductione(jim)
-  puts "Hi, my name is #{jim} and i am learning to program in #{[english]}."
+  puts "Hi, my name is #{jim} and I am learning to program in #{[english]}."
 end
